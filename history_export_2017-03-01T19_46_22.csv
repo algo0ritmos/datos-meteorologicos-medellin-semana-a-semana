@@ -1,0 +1,20 @@
+LAT;;;;;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803;1.24803
+LON;;;;;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909;-77.4909
+ASL;;;;;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00;1666.00
+CITY;;;;;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera;Olaya Herrera
+DOMAIN;;;;;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA;NEMSSA
+LEVEL;;;;;2 m above gnd;sfc;sfc;high cld lay;mid cld lay;low cld lay;sfc;2 m above gnd;2 m above gnd;sfc;sfc;high cld lay;high cld lay;mid cld lay;mid cld lay;low cld lay;low cld lay
+NAME;;;;;Temperature;Total Precipitation;Total cloud cover;High cloud cover;Medium cloud cover;Low cloud cover;Shortwave Radiation - backwards;Temperature;Temperature;Total cloud cover;Total cloud cover;High cloud cover;High cloud cover;Medium cloud cover;Medium cloud cover;Low cloud cover;Low cloud cover
+UNIT;;;;;°C;mm;%;%;%;%;W/m2;°C;°C;%;%;%;%;%;%;%;%
+AGGREGATION;;;;;daily mean;daily sum;daily mean;daily mean;daily mean;daily mean;daily sum;daily max;daily min;daily max;daily min;daily max;daily min;daily max;daily min;daily max;daily min
+UTC_OFFSET;;;;;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5;-5
+
+Year;Month;Day;Hour;Minute;Temperature daily mean [2 m above gnd];Total Precipitation daily sum [sfc];Total cloud cover daily mean [sfc];High cloud cover daily mean [high cld lay];Medium cloud cover daily mean [mid cld lay];Low cloud cover daily mean [low cld lay];Shortwave Radiation - backwards daily sum [sfc];Temperature daily max [2 m above gnd];Temperature daily min [2 m above gnd];Total cloud cover daily max [sfc];Total cloud cover daily min [sfc];High cloud cover daily max [high cld lay];High cloud cover daily min [high cld lay];Medium cloud cover daily max [mid cld lay];Medium cloud cover daily min [mid cld lay];Low cloud cover daily max [low cld lay];Low cloud cover daily min [low cld lay]
+2017;02;22;00;00;16.22;0.70;56.08;51.33;17.00;48.96;3091.86;19.54;11.95;100.00;4.80;100.00;2.00;75.00;0.00;100.00;0.00
+2017;02;23;00;00;17.20;0.20;51.96;28.62;9.62;45.83;5372.04;22.92;12.20;100.00;1.50;82.00;5.00;67.00;0.00;100.00;0.00
+2017;02;24;00;00;16.78;0.20;48.62;9.62;7.92;47.96;4234.62;21.68;12.87;100.00;0.00;39.00;0.00;69.00;0.00;100.00;0.00
+2017;02;25;00;00;16.08;1.70;71.32;44.50;38.12;71.17;2289.08;18.37;12.26;100.00;0.00;100.00;0.00;100.00;0.00;100.00;0.00
+2017;02;26;00;00;15.83;2.10;73.48;23.79;60.21;61.92;2443.05;18.46;12.91;100.00;5.40;100.00;0.00;100.00;0.00;100.00;0.00
+2017;02;27;00;00;16.82;0.60;92.48;57.67;73.75;58.83;2916.53;19.79;13.55;100.00;24.60;100.00;0.00;100.00;0.00;100.00;0.00
+2017;02;28;00;00;17.32;0.40;86.39;10.79;71.92;57.88;3267.19;20.76;15.27;100.00;2.40;41.00;0.00;100.00;0.00;100.00;0.00
+2017;03;01;00;00;17.00;0.10;78.92;29.67;46.21;46.62;2985.06;20.11;14.03;100.00;2.70;100.00;0.00;100.00;0.00;100.00;0.00
